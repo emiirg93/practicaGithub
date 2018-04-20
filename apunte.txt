@@ -1,0 +1,11 @@
+virtualizacion
+ 
+- fidelidad.
+- aislamiento (todo lo que pase en la maquina virtual no va a afectar toda mi maquina)
+- rendimiento.
+
+ventajas
+
+- bajo costo. (mantenimiento)
+- ahorro espacio.
+- mas seguridad al momento de fallas de soft.
